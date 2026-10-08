@@ -1,0 +1,11 @@
+python
+reseau
+routeur
+commutateur
+adresse
+protocole
+serveur
+paquet
+dictionnaire
+fonction
+éléphant
